@@ -4,42 +4,37 @@ sidebar_position: 1
 
 # Welcome to SmartifyOS
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's make your old car as modern as any new car!.
 
 ## Getting Started
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### For contribution
 
-### What you'll need
+If you want to contribute to this project by for example fixing a bug or adding a feature install it like this:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+1. Install the [Unity Editor](https://unity.com/)
+2. Go to the repository’s GitHub page and click the “Fork” button to create a copy of the repository in your own GitHub account.
+3. Clone your new repo
+   ```
+   git clone https://github.com/your-username/SmartifyOS.git
+   ```
+4. Cd into its directory
+   ```
+   cd SmartifyOS
+   ```
+5. Add the Main Repository as a Remote 
+   ```
+   git remote add upstream https://github.com/Mauznemo/SmartifyOS.git
+   ```
+6. Open Unity Hub, click `Add` and select the path of the repo you just cloned
 
-## Generate a new site
+### For personal project:
 
-Generate a new Docusaurus site using the **classic template**.
+If you only want to add your own personal features (that are specific to your project) you can do it like this:
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+1. Install the [Unity Editor](https://unity.com/)
+2. Clone the repo
+   ```
+   git clone https://github.com/Mauznemo/SmartifyOS.git
+   ```
+3. Open Unity Hub, click `Add` and select the path of the repo you just cloned
