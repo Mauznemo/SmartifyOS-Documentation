@@ -37,9 +37,9 @@ export default function Home() {
             description="Documentation for SmartifyOS"
         >
             <HomepageHeader />
-            <main>
-                <HomepageFeatures />
-            </main>
         </Layout>
     );
 }
+/*<main>
+    <HomepageFeatures />
+</main>*/
