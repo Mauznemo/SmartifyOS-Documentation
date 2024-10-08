@@ -62,7 +62,7 @@ namespace SmartifyOS.Settings
 
         protected override void OnOpened()
         {
-            Debug.Log("Settings Page opened");
+            Debug.Log($"Settings Page {pageName} opened");
         }
     }
 }
