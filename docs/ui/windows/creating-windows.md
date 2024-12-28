@@ -13,3 +13,7 @@ sidebar_position: 1
 2. Set the window title by selecting the `TopBar > Text (TMP)` object and changing the text
 3. Drag the new window game object over (not on) the `Put nothing under here!` object
 
+## Managing existing Windows/Apps
+To manage existing Windows and their scripts in your scene you can open the setting (`Ctrl + .` or `SmartifyOS > Settings`).
+Then you can click on the tab `Apps`. There you can show and select the existing Windows in your scene and also remove them together with their script files.
+
