@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Creating custom window script
+# Creating a custom window script
 Right click in your project browser and click on `Create > SmartifyOS > UI Window Script` and open it up (remember to drag the new script onto the new game object).
 
 ## Base class: BaseUIWindow
