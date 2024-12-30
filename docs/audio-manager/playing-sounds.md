@@ -14,8 +14,8 @@ Or this, if the file is in `AudioManager.audioConfig_SO`
 AudioManager.Instance.PlaySound(AudioManager.audioConfig_SO.notificationSounds.info);
 ```
 
-## Adding audio file to `AudioManager.audioConfig_SO`
-To add an audio file to the config right click in your project browser `Create > SmartifyOS > Add Audio Config`, name the file and open it.
+## Adding audio files to `AudioManager.audioConfig_SO`
+To add an audio file to the config right click in your project browser `Create > SmartifyOS > Audio > Add Audio Config`, name the file and open it.
 \
 In there you can add new AudioClip variables and optionally structs
 ```cs
