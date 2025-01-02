@@ -3,9 +3,9 @@ sidebar_position: 1
 ---
 
 # Adding custom buttons/toggles
-1. In your project hierarchy under the `UI` section expand `Canvas > StatusBar > QuickSettings` and click on `Buttons`
-2. Now right click on on `Buttons` and select `UI > SmartifyOS > More > Quick Settings > Button` or `UI > SmartifyOS > More > Quick Settings > Toggle` for a toggle
-3. If you now select the new button you can set  it icon and text In inspector tab (for a toggle you can add two icons)
+1. In your project hierarchy under the `UI` section expand `Canvas > StatusBar > QuickSettings`
+2. Now right click on `Buttons` and select `UI > SmartifyOS > More > Quick Settings > Button` or `UI > SmartifyOS > More > Quick Settings > Toggle` for a toggle
+3. If you now select the new button you can set its icon and text in inspector tab (for a toggle you can add two icons)
 
 ## Custom Button/Toggle script
 Right click in your project browser and click on `Create > SmartifyOS > More > Quick Settings Entry` and name the script.
