@@ -8,6 +8,13 @@ sidebar_position: 8
 To update your Unity project you can click `SmartifyOS > Check for Update` and then click on `Check for Update`.
 If there is an update it will show you a changelog and which files will change. Then you can just click on `Sync Repository`.
 
+## How to upgrade Unity version
+You can't use the update tool to update the Unity version since Unity has to be closed to do so.
+1. Close the Unity Editor and Unity Hub
+2. Open your Terminal in the `SmartifyOS` directory and run `git fetch` and `git pull` (see: [Errors while updating](#errors-while-updating) if you get any errors)
+3. Open up the Unity Hub again
+4. Click on the ⚠️ icon of the project and install the needed Unity Editor version (make sure to tick `Linux Build support (Mono)` under `Add modules`)
+
 ## How file changes are handled
 Files modified by you will never be overwritten!
 
