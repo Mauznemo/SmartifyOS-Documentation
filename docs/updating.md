@@ -28,7 +28,7 @@ If you want an relatively easy to use GUI tool to do this you can use [VS Code](
 ### Merge conflict
 If you run the updater (or `git pull`) again after committing you may get an Merge conflict in the files that you changed an which where also changed on the remote.
 
-To fix this open the project in [VS Code](https://code.visualstudio.com/). Under the `Source control` tab you will see these files (they should have a ❗ icon). You then can click on them and on the button `Resolve in Merge Editor` and fix the conflict.
+To fix this open the project in [VS Code](https://code.visualstudio.com/) ([How to use VS Code with Unity](https://code.visualstudio.com/docs/other/unity)). Under the `Source control` tab you will see these files (they should have a ❗ icon). You then can click on them and on the button `Resolve in Merge Editor` and fix the conflict.
 
 Here is a tutorial for the Merge Editor (explanation of editor starts at `02:18`)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HosPml1qkrg?si=-AiqxcGwBerSz63P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
